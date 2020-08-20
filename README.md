@@ -1,4 +1,4 @@
-# SpaceBartender
+# SpaceBar
 > Cause I'm a baaaeeeaaaartender ooooh she lookin at miieeee
 
 SpaceBar is a game where you play as a bartender and interact with your clients through your cocktails. 
